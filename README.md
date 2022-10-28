@@ -1,4 +1,4 @@
 # makerkang-huei-yeh-bodyMeasureLINE
 ## 輝葉 bodyMeasureLINE
 
-使用 apiSite="https://makerkang.com:3000/"
+移到 github 帳號 apis@makerkang.com
